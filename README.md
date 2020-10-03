@@ -2,17 +2,22 @@
 Hey Guys. 
 This is of my First project with React Native And Git. And im so happy!!!
 
+<hr>
 <a href="https://trello-attachments.s3.amazonaws.com/5f2f7601d71fc85a182792c4/5f4616d16d392f7e3fd3a6b8/5d87ce77facc05d66eae31eca7cd1334/Screenshot_2020-08-29-00-39-51.png">
 <img src="https://trello-attachments.s3.amazonaws.com/5f2f7601d71fc85a182792c4/5f4616d16d392f7e3fd3a6b8/5d87ce77facc05d66eae31eca7cd1334/Screenshot_2020-08-29-00-39-51.png" alt="Calculator" style="max-width: 20%">
 </a>
-I want to develop it as soon as possible.
+<br/>
+<hr>
 
+I want to develop it as soon as possible.
+<hr>
 I have a ToDo list :
 
 1. Add History 
 2. Add Theme
 3. Make a better View for App
 
+<hr>
 <h1><strong>Installation</strong></h1>
 
 If you Want to Test app on You phone :
